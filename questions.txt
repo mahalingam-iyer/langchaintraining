@@ -1,0 +1,30 @@
+Java Basic Questions are as fallows for 1year to 5 years experience
+What is Java, and why is it popular?
+What are the main features of Java?
+Explain the difference between JDK, JRE, and JVM.
+
+Java Intermediate Questions are as fallows for 6 years to 10 years experience 
+What is the main difference between == and .equals() in Java?
+Explain the concept of object-oriented programming (OOP) in Java.
+What are the four principles of OOP, and why are they important?
+
+Java Advanced Questions are as fallows for 10 years and above experience
+Describe the main components of a Java program.
+What is a class in Java, and how is it used?
+Explain the concept of inheritance in Java with an example.
+What is polymorphism, and how is it implemented in Java?
+
+JavaScript Basic Questions are as fallows for 1 year to 5 years experience
+What are anonymous functions in JavaScript?
+What is a callback function in JavaScript?
+What are Promises in JavaScript?
+
+JavaScript Basic Questions are as fallows for 6 years to 10 years experience
+Explain loops in JavaScript.
+Explain the “this” keyword.
+What are the differences between call, apply, and bind?
+
+JavaScript Advanced Questions are as fallows for 10 years and above experience
+What is the nullish coalescing operator in JavaScript?
+What is the difference between == and === operators?
+What is a spread operator?
